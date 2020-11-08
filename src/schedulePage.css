@@ -1,0 +1,29 @@
+table.scheduleTable {
+    width: 100%;
+    border-style: ridge;
+    border-width: 1px;
+    border-collapse: collapse;
+}
+
+th.scheduleTable {
+    border-right-style: ridge;
+    border-right-width: 1px;
+    background-color: #333634;
+    color: rgb(255, 255, 255);
+    height: 30px;
+}
+td.scheduleTable {
+    background-color: #f0f0f0;
+    border-right-style: ridge;
+    width: 14%;
+    vertical-align: top;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+div.scheduleTable {
+    background-color: #a3d6ff;
+    border-left-style: ridge;
+    border-left-width: 5px;
+    border-left-color: #2582cc;
+    margin-bottom: 2px;
+}
